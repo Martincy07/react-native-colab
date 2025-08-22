@@ -1,9 +1,9 @@
 import { Text, View } from "react-native";
-
-export default function nombre() {
+export default function Nnombre() {
   return (
     <View>
-      <Text style={{ fontSize: 20 }}>¡Hola!</Text>
+      <Text style={{ fontSize: 20 }}>Martin Cywiner</Text>
+
     </View>
   );
 }
